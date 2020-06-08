@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "312301797686",
+    "firebase_url": "https://nosso-chat-firebase-972f1.firebaseio.com",
+    "project_id": "nosso-chat-firebase-972f1",
+    "storage_bucket": "nosso-chat-firebase-972f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312301797686:android:48f9afebc5157a36",
+        "android_client_info": {
+          "package_name": "br.com.thiengo.thiengocalopsitafbexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312301797686-4ofaphmq7hpikl48qqnt8k4eljo6dbjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.thiengo.thiengocalopsitafbexample",
+            "certificate_hash": "C3E1B4C03E982C7DB12DFA9E8EF0658958241A65"
+          }
+        },
+        {
+          "client_id": "312301797686-1bkt0nbecnbctpfoflanjr3sp4fi0aec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNE3P4vllagOKPkTWr4Rnj81NS_QikznE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312301797686-1bkt0nbecnbctpfoflanjr3sp4fi0aec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
